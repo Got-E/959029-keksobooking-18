@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Олег Данков](https://up.htmlacademy.ru/javascript/18/user/959029).
-* Наставник: [Антон Попов] (https://vk.com/ademaro).
+* Наставник: [Антон Попов](https://vk.com/ademaro).
 
 ---
 
